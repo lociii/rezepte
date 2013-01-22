@@ -18,7 +18,7 @@ Die Sahne zusammmen mit dem Pulver zu einer sehr festen Masse schlagen. Ist die 
 * 150g Mehl
 * 150g Speisestaerke
 * 300g Butter
-* 200g brauner Rohrzucker
+* 200g feiner Zucker
 * 80g Nutella
 * Kakaopulver
 * 5 Eier
