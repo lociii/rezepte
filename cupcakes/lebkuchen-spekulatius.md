@@ -1,7 +1,7 @@
 # Lebkuchen-Spekulatius Cupcakes
 
 ## Portion
-Ergibt ~24 Muffins
+Ergibt ~24 Cupcakes
 
 ## Creme
 ### Zutaten
