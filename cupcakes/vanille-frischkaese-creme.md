@@ -7,9 +7,9 @@ Ergibt ~24 Cupcakes
 
 ## Creme
 ### Zutaten
-* 200g Butter
-* 200g Frischkaese
-* 200g Puderzucker
+* 150g Butter
+* 150g Frischkaese
+* 150g Puderzucker
 
 ### Zubereitung
 Den Puderzucker sieben und mit den beiden anderen Zutaten zu einer Creme verruehren. Die Creme kalt stellen bis sie eine feste Masse bildet.
