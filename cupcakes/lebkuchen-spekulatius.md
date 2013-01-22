@@ -1,5 +1,7 @@
 # Lebkuchen-Spekulatius Cupcakes
 
+![Cupcakes](https://github.com/lociii/rezepte/blob/master/images/cupcakes/lebkuchen-spekulatius.jpg)
+
 ## Portion
 Ergibt ~24 Cupcakes
 

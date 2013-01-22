@@ -1,5 +1,7 @@
 # Schwarzwaelder-Kirsch Cupcakes
 
+![Cupcakes](https://github.com/lociii/rezepte/blob/master/images/cupcakes/schwarzwaelder-kirsch.jpg)
+
 ## Portion
 Ergibt ~24 Cupcakes
 
