@@ -28,6 +28,7 @@ Ueber Nacht im Kuehlschrank erkalten lassen.
 * 3 TL Milch
 * 1 Pk. Backpulver
 * 1 TL Vanillezucker (alternativ 1 Pk.)
+* 1 Pk. (15g) Lebkuchengewuerz
 
 ### Zubereitung
 Zutaten vermischen, in Muffins-Formen fuellen und bei 180°C fuer 20-25 Minuten backen.
